@@ -74,7 +74,7 @@
 					<label2>$VAR[ProfileIdentificationLabel2Var]</label2>
 				</control>
 				<control type="button" id="708">
-					<label>$LOCALIZE[32071]</label>
+					<label>$LOCALIZE[31971]</label>
 					<include>DefaultSettingButton</include>
 					<onclick condition="!Skin.HasSetting(osd.useOneSecondCodecLogos) + !Skin.HasSetting(osd.useTwoSecondsCodecLogos) + !Skin.HasSetting(osd.useThreeSecondsCodecLogos) + !Skin.HasSetting(osd.useFourSecondsCodecLogos) + !Skin.HasSetting(osd.useFiveSecondsCodecLogos) + !Skin.HasSetting(osd.useSixSecondsCodecLogos) + !Skin.HasSetting(osd.useSevenSecondsCodecLogos) + !Skin.HasSetting(osd.useEightSecondsCodecLogos) + !Skin.HasSetting(osd.useNineSecondsCodecLogos) + !Skin.HasSetting(osd.useTenSecondsCodecLogos) + !Skin.HasSetting(osd.useElevenSecondsCodecLogos) + !Skin.HasSetting(osd.useTwelveSecondsCodecLogos) + !Skin.HasSetting(osd.useThirteenSecondsCodecLogos) + !Skin.HasSetting(osd.useFourteenSecondsCodecLogos) + !Skin.HasSetting(osd.useFifteenSecondsCodecLogos)">Skin.ToggleSetting(osd.useSixSecondsCodecLogos)</onclick>
 					<onclick condition="Skin.HasSetting(osd.useFiveSecondsCodecLogos)">Skin.ToggleSetting(osd.useSixSecondsCodecLogos)</onclick>
@@ -109,7 +109,7 @@
 					<label2>$VAR[OSDCodecLogosStartupTimerLabel]</label2>
 				</control>
 				<control type="button" id="709">
-					<label>$LOCALIZE[32062]</label>
+					<label>$LOCALIZE[31962]</label>
 					<include>DefaultSettingButton</include>
 					<onclick condition="!Skin.HasSetting(osd.useleftCodecStartupLogos) + !Skin.HasSetting(osd.usecenterCodecStartupLogos) + !Skin.HasSetting(osd.userightCodecStartupLogos)">Skin.ToggleSetting(osd.useleftCodecStartupLogos)</onclick>
 					<onclick condition="Skin.HasSetting(osd.useleftCodecStartupLogos)">Skin.ToggleSetting(osd.usecenterCodecStartupLogos)</onclick>
@@ -120,7 +120,7 @@
 					<label2>$VAR[OSDCodecLogosStartupLabel]</label2>
 				</control>
 				<control type="button" id="710">
-					<label>$LOCALIZE[32060]</label>
+					<label>$LOCALIZE[31960]</label>
 					<include>DefaultSettingButton</include>
 					<onclick condition="!Skin.HasSetting(osd.useleftCodecLogos) + !Skin.HasSetting(osd.usecenterCodecLogos) + !Skin.HasSetting(osd.userightCodecLogos)">Skin.ToggleSetting(osd.useleftCodecLogos)</onclick>
 					<onclick condition="Skin.HasSetting(osd.useleftCodecLogos)">Skin.ToggleSetting(osd.usecenterCodecLogos)</onclick>
@@ -131,7 +131,7 @@
 					<label2>$VAR[OSDCodecLogosLabel]</label2>
 				</control>
 				<control type="button" id="711">
-					<label>$LOCALIZE[32061]</label>
+					<label>$LOCALIZE[31961]</label>
 					<include>DefaultSettingButton</include>
 					<onclick condition="!Skin.HasSetting(ppi.useleftCodecLogos) + !Skin.HasSetting(ppi.usecenterCodecLogos) + !Skin.HasSetting(ppi.userightCodecLogos)">Skin.ToggleSetting(ppi.useleftCodecLogos)</onclick>
 					<onclick condition="Skin.HasSetting(ppi.useleftCodecLogos)">Skin.ToggleSetting(ppi.usecenterCodecLogos)</onclick>
