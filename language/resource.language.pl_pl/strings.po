@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+# Kodi Media Center language file 
 # Addon Name: Estuary
 # Addon id: skin.estuary
 # Addon Provider: Team Kodi
@@ -8,8 +8,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2023-11-23 17:23+0000\n"
-"Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
-"Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-estuary/pl_pl/>\n"
+"Last-Translator: webkurier\n"
+"Language-Team: Kodi Teams\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -497,7 +497,7 @@ msgstr "Naciśnij, aby zobaczyć ostatnie zmiany..."
 #. Label to show PVR info page
 msgctxt "#31137"
 msgid "PVR"
-msgstr "Telewizja"
+msgstr "IPTV"
 
 #. Label to show player info page
 msgctxt "#31138"
@@ -763,3 +763,355 @@ msgstr "System"
 #~ msgctxt "#31138"
 #~ msgid "Player process info"
 #~ msgstr "Właściwości odtwarzania"
+
+msgctxt "#31900"
+msgid "Display mode"
+msgstr "Rozdzielczość"
+
+msgctxt "#31901"
+msgid "Video mode"
+msgstr "Rozmiar wideo"
+
+msgctxt "#31902"
+msgid "Color space"
+msgstr "Przestrzeń kolorów"
+
+msgctxt "#31903"
+msgid "Mb/s"
+msgstr "Mb/s"
+
+msgctxt "#31904"
+msgid "Bit depth"
+msgstr "Głębia"
+
+msgctxt "#31905"
+msgid "Decoder"
+msgstr "Dekoder"
+
+msgctxt "#31906"
+msgid "VS10 engine"
+msgstr "Tryb VS10"
+
+msgctxt "#31907"
+msgid "More"
+msgstr "Więcej"
+
+msgctxt "#31908"
+msgid "Video queue"
+msgstr "Video queue"
+
+msgctxt "#31909"
+msgid "Video queue data"
+msgstr "Video queue data"
+
+msgctxt "#31910"
+msgid "Audio queue"
+msgstr "Audio queue"
+
+msgctxt "#31911"
+msgid "Audio queue data"
+msgstr "Audio queue data"
+
+msgctxt "#31912"
+msgid "Kb/s"
+msgstr "Kb/s"
+
+msgctxt "#31913"
+msgid "Playback time"
+msgstr "Czas odtwarzania"
+
+msgctxt "#31914"
+msgid "Processor"
+msgstr "Procesor"
+
+msgctxt "#31915"
+msgid "Metadane"
+msgstr "Metadane"
+
+msgctxt "#31916"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "#32017"
+msgid "Level"
+msgstr "Poziom"
+
+msgctxt "#31918"
+msgid "RPU"
+msgstr "RPU"
+
+msgctxt "#31919"
+msgid "Base Layer"
+msgstr "Warstwa bazowa"
+
+msgctxt "#31920"
+msgid "Enhancement Layer"
+msgstr "Warstwa ulepszeń"
+
+msgctxt "#31921"
+msgid "Enhancement Layer Type"
+msgstr "Typ warstwy ulepszeń"
+
+msgctxt "#31922"
+msgid "Metadata"
+msgstr "Atrybuty"
+
+msgctxt "#31923"
+msgid "Pixel format"
+msgstr "Format pikseli"
+
+msgctxt "#31924"
+msgid "Aspect ratio"
+msgstr "Proporcje"
+
+msgctxt "#31925"
+msgid "HDR10 MDL"
+msgstr "HDR10 MDL"
+
+msgctxt "#31926"
+msgid "HDR10 MaxCLL/FALL"
+msgstr "HDR10 MaxCLL/FALL"
+
+msgctxt "#31927"
+msgid "Media source"
+msgstr "Źródło multimediów"
+
+msgctxt "#31928"
+msgid "Unknown"
+msgstr "Nieznane"
+
+msgctxt "#31929"
+msgid "On"
+msgstr "Włączone"
+
+msgctxt "#31930"
+msgid "Off"
+msgstr "Wyłączone"
+
+msgctxt "#31931"
+msgid "Deinterlacing"
+msgstr "Deinterlacja"
+
+msgctxt "#31932"
+msgid "Player cache"
+msgstr "Pamięć podręczna"
+
+msgctxt "#31933"
+msgid "N/A"
+msgstr "Niedostępne"
+
+msgctxt "#31934"
+msgid "Memory usage"
+msgstr "Zużycie pamięci"
+
+msgctxt "#31935"
+msgid "Passthrough"
+msgstr "Passthrough"
+
+msgctxt "#31936"
+msgid "AML FPS"
+msgstr "AML FPS"
+
+msgctxt "#31937"
+msgid "DV Configuration"
+msgstr "Konfiguracja DV"
+
+msgctxt "#31938"
+msgid "DV Levels Metadata"
+msgstr "Metadane poziomów DV"
+
+msgctxt "#31939"
+msgid "HDR Static Metadata"
+msgstr "Statyczne metadane HDR"
+
+msgctxt "#31940"
+msgid "cd/m²"
+msgstr "cd/m²"
+
+msgctxt "#31941"
+msgid "RPU MDL"
+msgstr "RPU MDL"
+
+msgctxt "#31942"
+msgid "RPU MaxCLL/FALL"
+msgstr "RPU MaxCLL/FALL"
+
+msgctxt "#31943"
+msgid "FLL MIN / MAX / Ø"
+msgstr "FLL MIN / MAX / Ø"
+
+msgctxt "#31944"
+msgid "PQ  MIN / MAX / Ø"
+msgstr "PQ  MIN / MAX / Ø"
+
+msgctxt "#31945"
+msgid "12-bit"
+msgstr "12-bit"
+
+msgctxt "#31946"
+msgid "Codec"
+msgstr "Kodek"
+
+msgctxt "#31947"
+msgid "Bitrate"
+msgstr "Przepływ"
+
+msgctxt "#31948"
+msgid "VS10 status"
+msgstr "Typ VS10"
+
+msgctxt "#31951"
+msgid "Input"
+msgstr "Wejście"
+
+msgctxt "#31952"
+msgid "Audio language"
+msgstr "Ścieżka dźwiękowa"
+
+msgctxt "#31953"
+msgid "Subtitle language"
+msgstr "Język napisów"
+
+msgctxt "#31954"
+msgid "Video"
+msgstr "Wideo"
+
+msgctxt "#31955"
+msgid "Output"
+msgstr "Wyjście"
+
+msgctxt "#31956"
+msgid "Audio"
+msgstr "Dźwięk"
+
+msgctxt "#31957"
+msgid "Top left"
+msgstr "U góry po lewej"
+
+msgctxt "#31958"
+msgid "Top center"
+msgstr "U góry pośrodku"
+
+msgctxt "#31959"
+msgid "Top right"
+msgstr "U góry po prawej"
+
+msgctxt "#31960"
+msgid "Codec logos (OSD)"
+msgstr "Logo kodeków (OSD)"
+
+msgctxt "#31961"
+msgid "Logo kodeków (PlayerProcessInfo)"
+msgstr "Logo kodeków (PlayerProcessInfo)"
+
+msgctxt "#31962"
+msgid "Logo kodeków (Start)"
+msgstr "Logo kodeków (Start)"
+
+msgctxt "#31963"
+msgid "Pozycja logo kodeków"
+msgstr "Pozycja logo kodeków"
+
+msgctxt "#31964"
+msgid "Original"
+msgstr "Oryginał"
+
+msgctxt "#31965"
+msgid "VS10"
+msgstr "VS10"
+
+msgctxt "#31966"
+msgid "Audio codec"
+msgstr "Kodek audio"
+
+msgctxt "#31967"
+msgid "L5 Active Offsets"
+msgstr "L5 Active Offsets"
+
+msgctxt "#31968"
+msgid "Version"
+msgstr "Wersja"
+
+msgctxt "#31969"
+msgid "Bit depth"
+msgstr "Głębia"
+
+msgctxt "#31970"
+msgid "EOTF & Gamut"
+msgstr "EOTF i Gamut"
+
+msgctxt "#31971"
+msgid "- Duration"
+msgstr "- Czas trwania"
+
+msgctxt "#31972"
+msgid "- Show path"
+msgstr "- Pokaż ścieżkę"
+
+msgctxt "#31973"
+msgid "PlayerProcessInfo"
+msgstr "PlayerProcessInfo"
+
+msgctxt "#31974"
+msgid "PlayerProcessInfo type"
+msgstr "Typ PlayerProcessInfo"
+
+msgctxt "#31975"
+msgid "second"
+msgstr "s"
+
+msgctxt "#31976"
+msgid "- Show file name"
+msgstr "- Pokaż nazwę pliku"
+
+msgctxt "#31977"
+msgid "Modern"
+msgstr "Nowoczesny"
+
+msgctxt "#31978"
+msgid "Classic"
+msgstr "Klasyczny"
+
+msgctxt "#31979"
+msgid "Original"
+msgstr "Oryginalny"
+
+msgctxt "#31980"
+msgid "Optional"
+msgstr "Opcjonalny"
+
+msgctxt "#31981"
+msgid "Show file name in the version selection"
+msgstr "Pokaż nazwę pliku w wyborze wersji"
+
+msgctxt "#31982"
+msgid "Customise video osd"
+msgstr "Dostosuj OSD wideo"
+
+msgctxt "#31983"
+msgid "Customise video info"
+msgstr "Dostosuj informacje o wideo"
+
+msgctxt "#31984"
+msgid "Show two-row information bar"
+msgstr "Pokaż dwurzędowy pasek informacyjny"
+
+msgctxt "#31985"
+msgid "DiscArt"
+msgstr "Grafika na płycie"
+
+msgctxt "#31986"
+msgid "Rotating disc"
+msgstr "Obracająca się płyta"
+
+msgctxt "#31987"
+msgid "Decoding"
+msgstr "Dekodowanie"
+
+msgctxt "#31988"
+msgid "System"
+msgstr "System"
+
+msgctxt "#31989"
+msgid "Info line"
+msgstr "Pasek informacyjny"
